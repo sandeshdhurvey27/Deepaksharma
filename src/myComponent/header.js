@@ -93,7 +93,7 @@ class Header extends Component {
                 Experience
               </Button>
               <Button
-                href="#education"
+                href="#skills"
                 color="inherit"
                 style={{ fontSize: "1rem" }}
               >

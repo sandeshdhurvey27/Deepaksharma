@@ -19,8 +19,8 @@ export default class Footer extends Component {
         </div>
         <div className="footer-a">
           
-          <a href="https://www.instagram.com/deepak_57972/?hl=en/" target="_blank">
-            <i class="fab fa-instagram" />
+          <a href="https://www.google.com/maps/place/Devise+Engineering+Tools/@19.8642856,75.2208754,17z/data=!3m1!4b1!4m5!3m4!1s0x3bdb9be10febf12b:0x262e3051980eac32!8m2!3d19.8642856!4d75.2208754" target="_blank">
+            <i class="fas fa-location-arrow" />
           </a>
           <a href="mailto: devise.eng.tools@gmail.com">
             <i class="fas fa-envelope" />
